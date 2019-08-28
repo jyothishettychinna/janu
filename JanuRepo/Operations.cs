@@ -12,7 +12,7 @@ namespace JanuRepo
         {
             return a + b;
         }
-        public int sub(int a, int b)
+        public string sub(string a,string b)
         {
             return a + b;
         }
